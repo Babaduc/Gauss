@@ -1,0 +1,6 @@
+E:\Универ\5 семестр\Численные методы\Гаусс\Гаусс\bin\Release\Гаусс.exe.config
+E:\Универ\5 семестр\Численные методы\Гаусс\Гаусс\bin\Release\Гаусс.exe
+E:\Универ\5 семестр\Численные методы\Гаусс\Гаусс\obj\Release\Гаусс.csprojResolveAssemblyReference.cache
+E:\Универ\5 семестр\Численные методы\Гаусс\Гаусс\obj\Release\Гаусс.MainForm.resources
+E:\Универ\5 семестр\Численные методы\Гаусс\Гаусс\obj\Release\Гаусс.csproj.GenerateResource.Cache
+E:\Универ\5 семестр\Численные методы\Гаусс\Гаусс\obj\Release\Гаусс.exe
